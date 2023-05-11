@@ -508,5 +508,9 @@ h1{
   max-width: 100%;
 }
 }
-
-/*apply css*/
+/*ref css*/
+.testimonial0 ul li{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
